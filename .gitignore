@@ -3,3 +3,5 @@
 Library/
 # 过滤.vs目录
 .vs/
+# 过滤Temp目录
+Temp/
