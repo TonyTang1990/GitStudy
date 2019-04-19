@@ -5,3 +5,6 @@ Library/
 .vs/
 # 过滤Temp目录
 Temp/
+# 过滤cs工程文件
+*.csproj
+*.sh
