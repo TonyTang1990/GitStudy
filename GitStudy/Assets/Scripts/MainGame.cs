@@ -11,6 +11,11 @@ public class MainGame : MonoBehaviour
         DontDestroyOnLoad(this);
     }
 
+    void Start()
+    {
+        Debug.Log("Start()");
+    }
+
     private void Update()
     {
         
