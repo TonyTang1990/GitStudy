@@ -1,7 +1,7 @@
 using UnityEngine;
 
 /// <summary>
-/// ÓÎÏ·Ö÷Èë¿Ú
+/// ï¿½ï¿½Ï·ï¿½ï¿½ï¿½ï¿½ï¿½
 /// </summary>
 public class MainGame : MonoBehaviour
 {
@@ -9,5 +9,10 @@ public class MainGame : MonoBehaviour
     {
         Debug.Log("MainGame()");
         DontDestroyOnLoad(this);
+    }
+
+    void Start()
+    {
+        Debug.Log("Start()");
     }
 }
