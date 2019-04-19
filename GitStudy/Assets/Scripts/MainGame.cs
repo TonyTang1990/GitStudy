@@ -10,4 +10,9 @@ public class MainGame : MonoBehaviour
         Debug.Log("MainGame()");
         DontDestroyOnLoad(this);
     }
+
+    private void Update()
+    {
+        
+    }
 }
