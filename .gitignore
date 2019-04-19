@@ -7,4 +7,4 @@ Library/
 Temp/
 # 过滤cs工程文件
 *.csproj
-*.sh
+*.sln
